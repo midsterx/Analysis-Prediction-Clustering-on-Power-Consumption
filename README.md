@@ -20,6 +20,8 @@ It contains 2075259 measurements gathered between December 2006 and November 201
 
 ## Steps:
 Sequence of Files to be run:
-1. Files in Cleaning and Preprocessing
-2. Files in Prediction - SARIMA, LSTM and Hybrid in that order
-3. Files in Clustering
+1. Create an empty folder named 'dataset' write outside the git-cloned folder, and place the initial dataset inside the folder
+2. Files in Cleaning and Preprocessing
+3. Files in Prediction - SARIMA, LSTM and Hybrid in that order
+4. Files in Clustering
+
