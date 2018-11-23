@@ -17,3 +17,9 @@ It contains 2075259 measurements gathered between December 2006 and November 201
 ## Notes:
 1. (global_active_power*1000/60 - sub_metering_1 - sub_metering_2 - sub_metering_3) represents the active energy consumed every minute (in watt hour) in the household by electrical equipment not measured in sub-meterings 1, 2 and 3.
 2. The dataset contains some missing values in the measurements (nearly 1,25% of the rows). All calendar timestamps are present in the dataset but for some timestamps, the measurement values are missing: a missing value is represented by the absence of value between two consecutive semi-colon attribute separators. For instance, the dataset shows missing values on April 28, 2007.
+
+## Steps:
+Sequence of Files to be run:
+1. Files in Cleaning and Preprocessing
+2. Files in Prediction - SARIMA, LSTM and Hybrid in that order
+3. Files in Clustering
