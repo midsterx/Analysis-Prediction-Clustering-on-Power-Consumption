@@ -1,5 +1,7 @@
 # Analysis, Prediction & Clustering on an individual household's Electrical Power Consumption
 
+Presented at International Conference on Data Engineering and Communication Systems (ICDECS), 2019. Conference proceedings published at International Journal of Innovative Technology and Exploring Engineering (IJITEE): https://www.ijitee.org/wp-content/uploads/papers/v9i2S/B10291292S19.pdf
+
 ## About the Dataset:
 It contains 2075259 measurements gathered between December 2006 and November 2010 (47 months). 
 
